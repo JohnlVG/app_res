@@ -1,15 +1,20 @@
 # app_resp
 
-A new Flutter project.
+## Descripción
+
+**`app_resp`** es una aplicación móvil desarrollada en Flutter que ofrece una serie de ejercicios matemáticos y de programación, como el cálculo de factoriales, MCD, factorización y números primos. La app está diseñada para ser responsiva, adaptándose a diferentes tamaños de pantalla, garantizando una experiencia fluida en dispositivos de todo tipo.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este proyecto es un punto de partida para una aplicación Flutter, con la lógica de los ejercicios separada de la interfaz, lo que facilita su mantenimiento y expansión. La aplicación incluye un diseño interactivo con botones, campos de texto y marcas visuales para mostrar las soluciones de forma clara.
 
-A few resources to get you started if this is your first Flutter project:
+## Recursos para comenzar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Si es tu primer proyecto en Flutter, te recomendamos revisar los siguientes recursos:
+- [Documentación oficial de Flutter](https://flutter.dev/docs)
+- [Guía de inicio rápido de Flutter](https://flutter.dev/docs/get-started)
+
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
